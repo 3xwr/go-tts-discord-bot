@@ -12,8 +12,7 @@ A simple discord TTS bot using the [DiscordGo](https://github.com/bwmarrin/disco
 This assumes you already have a working Go environment setup and that
 DiscordGo is correctly installed on your system.
 
-From within the bot folder, run the below command to compile the
-bot.
+From within the bot folder, run the below command to compile the bot.
 
 ```sh
 go build
@@ -29,7 +28,7 @@ Usage of ./bot:
 You should also specify the location of your Google Cloud credentials in the code.
 
 ## Features
-This bot uses [Google Cloud Text-to-Speech](https://cloud.google.com/text-to-speech) to convert a random paragraph from included text file into natural-sounding speech.
+This bot uses [Google Cloud Text-to-Speech](https://cloud.google.com/text-to-speech) to convert a random paragraph from the included text file into natural-sounding speech.
 
 ## Commands
 | Command           | Description                                                   |
