@@ -34,7 +34,7 @@ This bot uses [Google Cloud Text-to-Speech](https://cloud.google.com/text-to-spe
 ## Commands
 | Command           | Description                                                   |
 |-------------------|---------------------------------------------------------------|
-| TTS!P             | write a random paragraph from the  file to the text channel   |
+| TTS!P             | writes a random paragraph from the  file to the text channel  |
 | TTS!V             | joins your current voice channel and reads a random paragraph |
 | TTS!L             | leaves the voice channel                                      |
 
