@@ -1,4 +1,4 @@
-# go-tts-discord-bot
+# Go TTS Discord Bot
 A simple discord TTS bot using the [DiscordGo](https://github.com/bwmarrin/discordgo) library.
 
 ## Requirements
@@ -39,5 +39,5 @@ This bot uses [Google Cloud Text-to-Speech](https://cloud.google.com/text-to-spe
 | TTS!L             | leaves the voice channel                                      |
 
 ## TODO
--Rewrite code to improve readability
--Sharding support
+- Rewrite code to improve readability
+- Sharding support
